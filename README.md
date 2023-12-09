@@ -314,3 +314,13 @@ Turn off the system
 | Display the petrol filling station status PS_4   |                                        |
 | Display the system status                        |                                        |
 | Turn off the system                              |                                        |
+
+## How to build
+
+```
+git clone 
+mkdir build
+cd build
+cmake -G "Unix Makefiles" ..
+make
+```
